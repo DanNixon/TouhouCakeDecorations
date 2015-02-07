@@ -70,22 +70,6 @@ Youkai
 Maintainer of the Borders
 Manipulation of all boundaries
 
-Yakumo Ran
-八雲　藍
-The Scheming Nine-Tailed Fox
-900
-Kitsune
-Yukari's shikigami
-Black magic, shikigami rituals
-
-Chen
-橙
-Black Cat of Bad Omens
-30
-Nekomata
-Ran's shikigami
-Black Magic
-
 Kawashiro Nitori
 河城　にとり
 The Kappa Thinking by the Waterside
@@ -157,3 +141,7 @@ Ghostly Gardener
 Half human, half phantom
 Gardener
 Swordfighting, speed
+
+Kaguya
+
+Mokou
