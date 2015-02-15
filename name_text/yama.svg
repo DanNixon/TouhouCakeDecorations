@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="141.45148"
-   height="235.72266"
+   width="135.9375"
+   height="76.09375"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="flandre.svg">
+   sodipodi:docname="New document 1">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,12 +24,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.7035048"
-     inkscape:cx="97.787826"
-     inkscape:cy="119.64854"
+     inkscape:zoom="5.8850575"
+     inkscape:cx="67.96875"
+     inkscape:cy="38.046871"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -47,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,28 +57,28 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-41.938602,-470.97824)">
+     transform="translate(-142.03125,-550.30859)">
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="165.71429"
-       y="463.79074"
+       x="260"
+       y="540.93359"
        id="text2985"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2987"
-         x="463.79074"
-         y="165.71429"
-         style="writing-mode:tb-rl">フランドIル</tspan><tspan
+         x="540.93359"
+         y="260"
+         style="writing-mode:tb-rl">四季</tspan><tspan
          sodipodi:role="line"
-         x="463.79074"
-         y="111.59012"
+         x="540.93359"
+         y="210"
          style="writing-mode:tb-rl"
-         id="tspan2985" /><tspan
+         id="tspan2991" /><tspan
          sodipodi:role="line"
-         x="463.79074"
-         y="57.465946"
-         style="writing-mode:tb-rl"
-         id="tspan2989">スカIレット</tspan></text>
+         x="540.93359"
+         y="160"
+         id="tspan2989"
+         style="writing-mode:tb-rl">映姫</tspan></text>
   </g>
 </svg>
