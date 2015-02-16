@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="92.519531"
-   height="88.284019"
+   width="110.3125"
+   height="85"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="nitori.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.6468229"
-     inkscape:cx="46.259764"
-     inkscape:cy="44.14201"
+     inkscape:zoom="7.2521246"
+     inkscape:cx="55.15625"
+     inkscape:cy="42.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,7 +69,7 @@
          y="435.21933">河城</tspan><tspan
          sodipodi:role="line"
          x="391.42856"
-         y="489.36273"
+         y="485.21933"
          id="tspan2989">にとり</tspan></text>
   </g>
 </svg>

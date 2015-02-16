@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="140.70929"
-   height="199.31641"
+   width="133.94469"
+   height="201.5625"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.3799706"
-     inkscape:cx="70.35464"
-     inkscape:cy="99.658207"
+     inkscape:zoom="4.2617054"
+     inkscape:cx="66.972345"
+     inkscape:cy="104.58039"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,7 +55,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-145.06919,-560.55695)">
+     transform="translate(-152.75175,-567.29523)">
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -70,12 +70,12 @@
          style="writing-mode:tb-rl">パチュリI</tspan><tspan
          sodipodi:role="line"
          x="558.07648"
-         y="214.44727"
+         y="218.55222"
          style="writing-mode:tb-rl"
          id="tspan2985" /><tspan
          sodipodi:role="line"
          x="558.07648"
-         y="160.32309"
+         y="168.533"
          id="tspan2989"
          style="writing-mode:tb-rl">ノIレッジ</tspan></text>
   </g>
